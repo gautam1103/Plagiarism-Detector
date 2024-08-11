@@ -66,11 +66,6 @@ This Streamlit application allows users to analyze text using language models. I
 
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-This markdown content provides a comprehensive overview of the application, including its purpose, features, setup instructions, usage guidelines, libraries used, contribution guidelines, and licensing information. You can copy this content into your `README.md` file and further customize it as per your specific needs or additional details about your implementation.
 
 
 
